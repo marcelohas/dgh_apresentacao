@@ -58,7 +58,13 @@ span {
 
   grid-gap: 22px;
   padding: 50px;
-
+	
+.cartao{
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+  justify-content: space-between;
+}
 
 }
 .grid-main-index {
